@@ -1,16 +1,17 @@
 # Zookeeper Python 🐘🐍🦁  
 
-A simple Python project to manage a virtual zoo. Keep track of animals, feed them, and check their health.
+
+A fun interactive Python project that lets you explore different zoo habitats!  
 
 ## Features  
-✅ Add new animals to the zoo  
-✅ Feed animals and monitor their health  
-✅ Display a list of all animals  
+✅ View different animal habitats  
+✅ Simple text-based interaction  
+✅ Run the program and enjoy the zoo experience  
 
 ## How to Use  
 1. Run `zookeeper.py` in Python  
-2. Add animals using the `add_animal()` function  
-3. Feed animals using `feed()`  
+2. Enter a number (0-5) to see an animal habitat  
+3. Type "exit" to leave  
 
 ## License  
 This project is open-source and free to use.  

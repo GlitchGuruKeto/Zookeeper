@@ -1,4 +1,4 @@
-# Zookeeper Python 🐘🐍🦁  
+# Zookeeper 🐘🐍🦁  
 
 
 A fun interactive Python project that lets you explore different zoo habitats!  
